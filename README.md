@@ -1,5 +1,5 @@
 # Project: First Neural Network
-The first project of [Udacity](https://www.udacity.com): [Deep Learning Nanodegree Foundation]
+The first project of [Udacity's](https://www.udacity.com) **Deep Learning Nanodegree Foundation**
 
 Build a neural network from scratch to predict bike sharing rides from real dataset. Knowledge of gradient descent, backpropagation, and other concepts are required.
 
